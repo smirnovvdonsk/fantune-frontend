@@ -78,3 +78,7 @@ Sorry. The backend is proprietary yet. Maybe later.
 ## Шумовая характеристика
 
 ![Шумовая характеристика](./docs/img/noiseCard.svg)
+
+## Противошумовые меры
+
+![Противошумовые меры](./docs/img/mufflersCard.svg)
